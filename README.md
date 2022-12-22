@@ -5,7 +5,7 @@ Esse projeto contém 4 partes, todas focadas em frontend.
 This project has 4 parts and is focused on the frontend
 
 # Website Link | Link do site
-
+https://euksei.netlify.app
 
 # Getting Started with Create React App
 
