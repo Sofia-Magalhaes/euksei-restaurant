@@ -7,14 +7,14 @@ import './Header.css';
 const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info">
-      <SubHeading title="Persiga o novo sabor"/>
-      <h1 className='app__header-h1'>A Chave Para um Bom Jantar</h1>
-      <p className='p__opensans' style={{margin: '2rem 0'}}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
-      <button type='button' className='custom__button'>Explore o Menu</button>
+      <SubHeading title="Persiga o novo sabor" />
+      <h1 className="app__header-h1">A chave para um bom jantar</h1>
+      <p className="p__opensans" style={{ margin: '2rem 0' }}>Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet tellus </p>
+      <button type="button" className="custom__button">Explore Menu</button>
     </div>
-    
-    <div className='app__wrapper_img'>
-      <img src={images.welcome} alt="header" />
+
+    <div className="app__wrapper_img">
+      <img src={images.welcome} alt="header_img" />
     </div>
   </div>
 );
