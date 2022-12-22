@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@Sofia-Magalhaes 
-adrianhajdin
-/
-project_modern_ui_ux_restaurant
-Public
-Code
-Issues
-3
-Pull requests
-3
-Actions
-Projects
-Security
-Insights
-project_modern_ui_ux_restaurant/src/container/Chef/Chef.css
-@TidbitsJS
-TidbitsJS finished repo
-Latest commit 61cac49 on Jan 11
- History
- 2 contributors
-@TidbitsJS@adrianhajdin
-51 lines (43 sloc)  860 Bytes
-
 .app__chef-content {
     display: flex;
     flex-direction: column;
