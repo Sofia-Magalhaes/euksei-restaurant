@@ -1,7 +1,7 @@
-# Parte 2 de 4 
+# Parte 2 de 2 
 Esse projeto contém 4 partes, todas focadas em frontend.
 
-# Part 2 of 4 
+# Part 2 of 2
 This project has 4 parts and is focused on the frontend
 
 # Website Link | Link do site
